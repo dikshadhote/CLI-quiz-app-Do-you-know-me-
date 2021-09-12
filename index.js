@@ -31,20 +31,24 @@ var questionList=[
     answer :"Steve Jobs"
   },
   {
-    question : "\nPlace she visited at the end of this year? ",
-    answer :"Kunwara Bhimsen"
+    question : "\nShe is techie or people person? ",
+    answer :"people person"
   },
   {question : "\nWhere she went for doing internship? ",
-    answer :"Mumbai"}
+    answer :"Mumbai"},
+    {question : "\nWhat is name of entrepreneur she is inspired by? ",
+    answer :"Steve Jobs"},
+    {question : "\nWhich technology she learned recently? ",
+    answer :"Web development"}
 
 ]
 //track of high score
 var highScore=[{
   Name:"Diksha",
-  score:3
+  score:5
 },{
   Name:"Aniket",
-  score:2
+  score:3
 }]
 
 //call function using each object of array
